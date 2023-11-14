@@ -17,7 +17,7 @@ const Home = () => {
                   <div className="col-md-7">
                     <div className="detail-box">
                       <h1>
-                        Welcome To Our <br />
+                        To Our <br />
                         Gift Shop
                       </h1>
                       <p>
